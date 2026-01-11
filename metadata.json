@@ -1,0 +1,7 @@
+{
+  "name": "AI Studio Clone",
+  "description": "A high-fidelity clone of Google AI Studio featuring a dark mode interface, project management, and real-time Gemini API integration for code generation and chat.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
